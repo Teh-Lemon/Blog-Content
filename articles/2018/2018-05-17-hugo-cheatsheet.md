@@ -1,6 +1,5 @@
 +++
 title = "Hugo Cheat Sheet"
-linktitle = "Migrating from Jekyll"
 date = 2018-05-17T05:04:10+01:00
 tags = ["Hugo"]
 categories = ["Web"]
