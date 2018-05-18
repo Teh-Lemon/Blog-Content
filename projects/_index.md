@@ -31,7 +31,7 @@ Source code:
 
 ### This website
 
-* Generated with Hugo. 
+* Generated with Hugo.
 * Based off the [Cactus Plus](https://github.com/nodejh/hugo-theme-cactus-plus) theme.
 * Hosted on Github Pages and Amazon S3.  
 
