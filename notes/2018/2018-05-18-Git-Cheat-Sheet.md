@@ -8,6 +8,5 @@ draft = false
 +++
 <!--more-->
 
-# Submodules
-
-`git submodule add https://github.com/Teh-Lemon/Teh-Lemon.github.io.git [PATH]`
+* Sub-modules
+    * `git submodule add [https://thing.com/boop.git] [PATH (.)(myFolder/anotherFolder)]`

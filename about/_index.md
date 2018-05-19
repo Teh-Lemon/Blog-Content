@@ -3,7 +3,8 @@ date = "2015-06-20T14:02:37+02:00"
 title = "About"
 hidden = true
 +++
-Blogs and notes for future reference.
+When you have many interests but only knee-deep knowledge in them so you find yourself re-googling everything every time and eventually you end up having to make a website to store all your notes.  
+This is that site.
 ***
 ### Anime  
 https://myanimelist.net/animelist/teh_lemon
