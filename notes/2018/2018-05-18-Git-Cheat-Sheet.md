@@ -10,3 +10,5 @@ draft = false
 
 * Sub-modules
     * `git submodule add [https://thing.com/boop.git] [PATH (.)(myFolder/anotherFolder)]`
+* Remove newly ignored files
+    * `git rm --cached <filename>`

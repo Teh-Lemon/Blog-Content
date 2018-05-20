@@ -5,11 +5,8 @@ date = 2018-05-18T01:06:50+01:00
 tags = ["blog"]
 categories = ["Blog"]
 draft = false
+description = "...again"
 +++
-# ...again
-
-<!--more-->
-
 New website!
 From raw HTML with inlined CSS, to WordPress, to Jekyll and now to Hugo.
 
