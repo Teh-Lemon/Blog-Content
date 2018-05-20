@@ -20,9 +20,16 @@ draft = false
 * Build
     1. Remove old files  
         `rmdir /S /Q public`
-    1. Build site  
+    2. Build site  
         `hugo -b https://www.tehlemon.com`
-    1. Push to production repo  
+    3. Remove unused theme files
+
+        ```markdown  
+            rmdir /S /Q public\fonts  
+            del public\images\avatar.png  
+            del public\images\avatar@2x.png  
+        ```
+    4. Push to production repo  
 
         ```bash
         cd public  

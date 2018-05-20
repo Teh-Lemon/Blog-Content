@@ -24,7 +24,7 @@ I like the layout but the headings are really ugly and I need to figure out how 
 
 ***
 
-I've been wanting to move away from Imgur Albums for a while. It has clearly been abandoned by the developers for features that actually make them money and bugs have slowly crept in over the years.  
+I've been wanting to move away from Imgur Albums for a while. It has clearly been abandoned by the developers for features that actually make them money and bugs have crept in over the years.  
 And while it has lasted for quite a while so far, image hosts are money-sinks and who knows what the future holds. Just look at all those old broken tutorials hosted with ImageShack, TinyPic, Photobucket etc.
 
 Github has a soft limit of how large free repositories can get and Git isn't designed for large binary files anyway so I need a place to host my photos. I was initially looking at Flickr but they recently got acquired. In the end I decided to host them myself on Amazon S3.  
