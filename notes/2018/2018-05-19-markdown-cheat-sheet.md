@@ -29,3 +29,18 @@ draft = false
                 float boop = 2.4;
                 ```
     ```
+* Hugo
+    * `{{< youtube w7Ft2ymGmfc >}}`
+    * `{{< tweet 877500564405444608 >}}`
+    * `{{< gist spf13 7896402 >}}`
+    * `{{< figure src="/media/spf13.jpg" title="Steve Francia" >}}`
+        * src
+        * link
+        * target
+            * _blank = new tab
+        * title
+        * caption
+        * height
+        * width
+    * `{{< img-tl "blog/2018/holiday/day-02/thing.jpg>}}`
+        * For images.tehlemon.com
