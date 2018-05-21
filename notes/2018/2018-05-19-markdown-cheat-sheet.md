@@ -28,7 +28,7 @@ draft = false
                 int thing = 0;
                 float boop = 2.4;
                 ```
-    ```
+        ```
 * Hugo
     * `{{< youtube w7Ft2ymGmfc >}}`
     * `{{< tweet 877500564405444608 >}}`
@@ -42,5 +42,5 @@ draft = false
         * caption
         * height
         * width
-    * `{{< img-tl "blog/2018/holiday/day-02/thing.jpg>}}`
+    * `{{< img-tl "blog/2018/holiday/day-02/thing.jpg >}}`
         * For images.tehlemon.com
