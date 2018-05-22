@@ -5,18 +5,20 @@ hidden = true
 +++
 When you have many interests but only knee-deep knowledge in them so you find yourself re-googling everything every time and eventually you end up having to make a website to store all your notes.  
 This is that site.
+
 ***
-### Anime  
+
+## Anime  
 https://myanimelist.net/animelist/teh_lemon
 
-### Games  
+## Games  
 https://steamcommunity.com/id/teh_lemon
 
-### Github  
+## Github  
 https://github.com/teh-lemon
 
-### Twitter - Personal  
+## Twitter - Personal  
 https://twitter.com/TehLemon
 
-### Twitter - Game Dev  
+## Twitter - Game Dev  
 https://twitter.com/WakabaGames
