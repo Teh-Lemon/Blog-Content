@@ -8,6 +8,7 @@ draft = false
 description = "...again"
 +++
 New website!
+<!--more-->
 From raw HTML with inlined CSS, to WordPress, to Jekyll and now to Hugo.
 
 I'm giving Hugo a try after reformatting my computer and realising how much crap I'd have to reinstall just to get Jekyll working again along with all its dependencies.  

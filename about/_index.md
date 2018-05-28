@@ -4,7 +4,6 @@ title = "About"
 hidden = true
 +++
 When you have many interests but only knee-deep knowledge in them so you find yourself re-googling everything every time and eventually you end up having to make a website to store all your notes.  
-This is that site.
 
 ***
 
