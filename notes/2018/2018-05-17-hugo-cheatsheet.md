@@ -14,6 +14,8 @@ draft = false
         * `hugo new notes/2020/how-to.md`
     * Font Awesome
         * `<i class="fas fa-lemon" aria-hidden="true"></i>`
+    * List all files in a directory in 1 column (bash only)
+        * `ls -1`
 * Testing
     * `hugo server`  
     * `http://localhost:1313`

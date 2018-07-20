@@ -29,6 +29,7 @@ draft = false
                 float boop = 2.4;
                 ```
         ```
+    * `<sup>Superscript</sup>`
 * Hugo
     * `{{</* youtube w7Ft2ymGmfc */>}}`
     * `{{</* tweet 877500564405444608 */>}}`
