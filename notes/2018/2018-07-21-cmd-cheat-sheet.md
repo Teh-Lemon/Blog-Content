@@ -30,6 +30,18 @@ magick mogrify -format jpg -quality 80 *.bmp
 del *.bmp
 ```
 
+## Image Editing
+
+* `convert` creates a new file  
+* `mogrify` overwrites the original file
+
+### Resize
+
+```
+magick convert "thing.jpg" -resize 50% "thing-small.jpg"
+magick mogrify "thing.jpg" -resize 50%
+```
+
 ## Video Editing
 
 ### Hold the last frame
