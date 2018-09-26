@@ -30,16 +30,40 @@ magick mogrify -format jpg -quality 80 *.bmp
 del *.bmp
 ```
 
+## File Editing
+
+### Renaming
+
+`ren *.jpg *@TehLemon.jpg`
+
 ## Image Editing
 
-* `convert` creates a new file  
-* `mogrify` overwrites the original file
+`convert` creates a new file  
+`mogrify` overwrites the original file
 
 ### Resize
 
 ```
 magick convert "thing.jpg" -resize 50% "thing-small.jpg"
 magick mogrify "thing.jpg" -resize 50%
+```
+
+### Rotation
+
+```
+magick convert -rotate "90" in.jpg out.jpg
+magick mogrify -rotate "-45" foo.jpg
+```
+
+### Arrays
+
+<https://www.imagemagick.org/Usage/montage/#settings>  
+Create a spritesheet from the files with a maximum size of 256x128, with a spacing of 0 pixels in between and 1 pixel on the top and bottom, with 2 columns and 1 row.  
+Tiling optional, montage will distribute it evenly by default.  
+256x128 optional, montage will leave things at their original size.  
+
+```
+magick montage "file1.jpg" "file2.jpg" "file3.jpg" -geometry 256x128+0+1 -tile 2x1 montage.jpg
 ```
 
 ## Video Editing
