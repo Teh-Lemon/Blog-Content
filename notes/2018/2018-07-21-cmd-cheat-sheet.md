@@ -65,6 +65,9 @@ Tiling optional, montage will distribute it evenly by default.
 ```
 magick montage "file1.jpg" "file2.jpg" "file3.jpg" -geometry 256x128+0+1 -tile 2x1 montage.jpg
 ```
+```
+magick montage *.jpg -geometry +0 -tile 1 foo.jpg
+```
 
 ## Video Editing
 
