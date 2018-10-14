@@ -12,18 +12,30 @@ How to use various command-line utilities including batch, bash, FFmpeg and Imag
 
 ## Conversion
 
-### Batch To Mp3.bat
+### Batch To Mp3
+
 Loop through every video in this directory and convert it to V2 .mp3.
 ```
 for %%a in ("*.mkv" "*.mp4" "*.webm") do ffmpeg -i "%%a" -codec:a libmp3lame -qscale:a 2 "%%a.mp3"
 ```
 
-### Encode VP8 Webm
+### Batch to Opus
+
+Renames to .ogg for compatibility reasons.
+Defaults to 96K bitrate.
 ```
--c:v libvpx -pix_fmt yuv420p -lag-in-frames 16 -auto-alt-ref 1 -qmin 28 -crf 30 -qmax 32 -qcomp 1 -b:v 0
+for %%a in ("*.mkv" "*.mp4" "*.webm") do ffmpeg -i "%%a" -acodec libopus "%%a.opus"
+ren *.opus *.ogg
+```
+
+### Encode VP8 Webm
+
+```
+-c:v libvpx -pix_fmt yuv420p -lag-in-frames 16 -auto-alt-ref 1 -qmin 28 -crf 30 -qmax 32 -qcomp 1 -b:v 0 out.webm
 ```
 
 ### Convert to JPEG
+
 Convert all BMP files in directory to JPEG then delete them.
 ```
 magick mogrify -format jpg -quality 80 *.bmp
