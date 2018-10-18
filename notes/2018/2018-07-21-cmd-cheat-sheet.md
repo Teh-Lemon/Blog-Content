@@ -108,3 +108,9 @@ ffmpeg
 	"
 	-c:v libx264 output.mkv
 ```
+
+### Time Range
+
+```
+ffmpeg -i input.mp4 -ss 00:00:00.00 -to 00:04:15.00 [output]
+```
