@@ -12,6 +12,7 @@ hidden = true
 A collection of utilities for Unity.  
 <https://github.com/Teh-Lemon/Homu-Core>  
 <https://github.com/Teh-Lemon/Homu-Editor>
+<https://github.com/Teh-Lemon/Homu-Shapes>
 
 ## Web
 
