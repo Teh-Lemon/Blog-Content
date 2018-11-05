@@ -7,7 +7,7 @@ hidden = true
 
 ## Game Dev
 
-### Homu tool suite
+### Homu Suite
 
 A collection of utilities for Unity.  
 <https://github.com/Teh-Lemon/Homu-Core>  
@@ -43,7 +43,7 @@ Source code:
 
 ### Defend Game
 
-Defend your base from the meteor attack.  
+Defend your base from a meteor attack.  
 <https://tehlemon.com/Defend-Game/>
 
 ### Flappy Bird CMD
