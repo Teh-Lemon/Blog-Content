@@ -5,7 +5,7 @@ date = 2018-11-04T18:29:58Z
 tags = ["Figures", "Photography", "Anime", "Frame Arms Girl"]
 categories = ["Figures"]
 draft = false
-description = "1/7 scale figure of the lovable dork"
+description = "1/7 scale figure of the lovable dork."
 +++
 {{< img-tl "Figures/FAG-Ao-Kotobukiya-2017/DSC01277.jpg" >}}
 Frame Arms Girl is a series of model kits featuring cute little anthropomorphized combat robots.  
