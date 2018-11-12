@@ -62,6 +62,6 @@ There was a positive side effect. Her thighs and hands also gained a reddish glo
 
 There's still the yellow sky to worry about.  
 In the end, I went with turning its brightness up so much that it turned white again. Although, looking at it closely now, I needed to go further because there's still a bit of a yellow tint to it.  
-Seeing as I didn't get the blue sky I wanted anyway, maybe I should have used a pre-HDR image but if I did then I wouldn't have ended up with this uniquely vivid image.
+Seeing as I didn't get the blue sky I wanted anyway, maybe I should have used the pre-HDR copy but if I did then I wouldn't have ended up with this uniquely vivid image.
 
 [Back to Top](#top)
