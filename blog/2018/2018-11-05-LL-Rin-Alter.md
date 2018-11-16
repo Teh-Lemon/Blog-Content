@@ -5,7 +5,7 @@ date = 2018-11-05T23:10:21Z
 tags = ["Figures", "Photography", "Anime", "Love Live"]
 categories = ["Figures"]
 draft = false
-description = "2018 1/7 scale figure for the cutest rabu raibu"
+description = "1/7 scale figure of the cutest rabu raibu"
 +++
 {{< img-tl "Figures/LL-Rin-Alter-2018/DSC01511_banner.jpg" >}}
 Finally, someone released a 1/7 scale figure for the school idol that I actually like.  
@@ -36,7 +36,7 @@ Alter did fix this in the next couple of figures. These two can't even be separa
 ## The Photos
 
 {{< img-tl "Figures/LL-Rin-Alter-2018/DSC01405.jpg" >}}
-She comes in this clear plastic box. Pretty cool.  
+Rin comes in this clear plastic box. Pretty cool.  
 <sup>I'll open Shigure later.</sup>
 
 {{< img-tl "Figures/LL-Rin-Alter-2018/DSC01410.jpg" >}}
@@ -44,7 +44,8 @@ This is one thicc metal rod. Figures have come a long way since the days of the 
 It's a pretty adventurous base for Alter who usually just go with a circle but it fits the theme well and the petals made it easy to line the figure up with the camera.
 
 {{< img-tl "Figures/LL-Rin-Alter-2018/DSC01473_01.jpg" >}}
-The figure itself is gorgeous. I love the frilly outfit and colours. Rin feels full of life thanks to the mid-motion pose with the waving sleeves and tassels.  
+The figure itself is gorgeous. I love the frilly outfit and colours.  
+Rin feels full of life thanks to the mid-motion pose with the waving sleeves and tassels.  
 
 While not noticeable in the photo, the gold threads use metallic paint and there's glitter sprinkled over the baton, giving the figure that extra bit of shine when seen in-person.  
 Not to mention the level of detail put into all the creases around her boots and stomach.  
@@ -52,7 +53,7 @@ Not to mention the level of detail put into all the creases around her boots and
 Overall, it perfectly captures Rin's cuteness without resorting to making her a goof.
 
 {{< img-tl "Figures/LL-Rin-Alter-2018/DSC01473_00.jpg" >}}
-The Sun came out from behind the clouds and blew the photo to bits. I really like this photo though because it led to this cool glow which reminds me of like stage lighting.
+The Sun came out from behind the clouds and blew this photo to bits. I really like this one though because it led to this cool glow which reminds me of like stage lighting.
 
 {{< img-tl "Figures/LL-Rin-Alter-2018/DSC01511.jpg" >}}
 Some figures look weird from the side, not the case here.  
@@ -82,17 +83,17 @@ The camera's auto mode doesn't always know what's best for each situation.
 Such as this case where I'm shooting on a tripod. Manual mode lets me freely set the aperture (depth of field) to what I need and the ISO to minimum to reduce noise.  
 Then I adjust the shutter speed until the image is sufficiently lit since motion blur isn't as issue.  
 
-Oh, and I use the timer so I don't shake the camera pressing the button.
+I use the timer so I don't shake the camera pressing the button. Not making that mistake again.
 
 {{< img-tl "Figures/LL-Rin-Alter-2018/DSC01504.jpg" >}}
-Rin actually looks pretty good displayed on a shelf. Shame about the Sun damage.
+Rin would actually look pretty good displayed on a shelf. Shame about the Sun damage.
 
-Since I'm not going the HDR route this time I needed to find a way to suppress the dynamic range. To bring down the brightness of the outdoors without making the figure too dark as well.
+Since I'm not going the HDR route this time I needed another way to suppress the dynamic range. To bring down the brightness of the outdoors without making the figure too dark as well.
 
-I came across this article on the [exposure fusion](https://www.darktable.org/2016/08/compressing-dynamic-range-with-exposure-fusion/) feature from the Darktable blog.  
+Then I came across this article on the [exposure fusion](https://www.darktable.org/2016/08/compressing-dynamic-range-with-exposure-fusion/) feature from the Darktable blog.  
 Basically, it's like a pseudo HDR but it merges the same photo with itself instead of using separate photos like real HDR. The technique is mainly effective at bringing up the shadows but it also did a decent job at equalizing the bright window with the figure regardless.
 
-There's one last thing about the editing process that I want to point out.  
+There's one last thing about the editing process I want to point out.  
 
 You might have already noticed from the photos that they all seem like they were taken at different times of the day. That's how fast the Sun sets here during Winter.  
 That means the colour of the light is constantly changing which also changes the tone of each photo. To combat this I employed a very simple colour grading tip that I got from this [tutorial](https://www.photoshopessentials.com/photo-editing/how-to-unify-colors-in-an-image-with-photoshop/).  
@@ -102,6 +103,6 @@ That means the colour of the light is constantly changing which also changes the
 By overlaying the same colour over all the photos you can unify the colour palette.  
 You can see from this illustration that by overlaying some purple at 50% opacity you can turn these 6 wildly contrasting colours into something that looks like they're from the same theme.
 
-It's an easy thing to do in most image editors but is very effective.
+I kept it subtle in the photos but I believe it was effective.
 
-[Back to Top](#top)
+[Back to Top](#the-photos)
