@@ -24,7 +24,8 @@ For me, the highlight of the show wasn't even the robot girls but this dork of a
 ## The Photos
 
 {{< img-tl "Figures/FAG-Ao-Kotobukiya-2017/DSC01277.jpg" >}}
-The combination of the pose, flailing bag and fluttering skirt gives off a very energetic, youthful feeling. There's nice attention to detail shown here by the sculptor from the creases in the clothes to the shine on her polished leather shoes and I love how they captured her messy hair.
+The combination of the pose, flailing bag and fluttering skirt gives off a very energetic, youthful feeling. There's nice attention to detail shown here by the sculptor from the creases in the clothes to the shine on her polished leather shoes and I love how they captured her messy hair.  
+Gourai is leaning back a bit, I'll try and bend her forward later.
 
 {{< img-tl "Figures/FAG-Ao-Kotobukiya-2017/DSC01243.jpg" >}}
 "Ao..."
@@ -60,8 +61,7 @@ Finally, I tried Photoshop's HDR instead which did a better job at aligning the 
 However, it turned the trees and the bottom of the sky yellow...  
 There was a positive side effect. Her thighs and hands also gained a reddish glow like real human skin. Overall, the image now had this warm Autumn feeling which I ended up liking.
 
-There's still the yellow sky to worry about.  
-In the end, I went with turning its brightness up so much that it turned white again. Although, looking at it closely now, I needed to go further because there's still a bit of a yellow tint to it.  
+There's still the yellow sky to worry about. I turned up its brightness until it turned white again.  
 Seeing as I didn't get the blue sky I wanted anyway, maybe I should have used the pre-HDR copy but if I did then I wouldn't have ended up with this uniquely vivid image.
 
 [Back to Top](#top)

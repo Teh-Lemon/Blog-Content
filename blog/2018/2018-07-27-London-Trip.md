@@ -2,7 +2,7 @@
 title = "London Trip to the Transport Museum"
 slug = "ltmuseum"
 date = 2018-07-27T04:07:26+01:00
-tags = ["blog", "photography", "London", "museums"]
+tags = ["blog", "London", "museums"]
 categories = ["Blog"]
 draft = false
 description = "Day trip to London with a friend."
@@ -111,13 +111,13 @@ Someone playing loud music over a BOOMBOX on the way to Stratford. Tutted at the
 {{< img-tl "Blog/DayTrips/18-07-London/2018-07-23 16.39.13.jpg" >}}
 {{< img-tl "Blog/DayTrips/18-07-London/2018-07-23 16.41.21.jpg" >}}
 {{< img-tl "Blog/DayTrips/18-07-London/2018-07-23 16.41.36.jpg" >}}
-Cute.
+I'm buying this entire store.
 
 {{< img-tl "Blog/DayTrips/18-07-London/2018-07-23 16.43.18.jpg" >}}
 {{< img-tl "Blog/DayTrips/18-07-London/[Scum] Shoujo Shuumatsu Ryokou (Girls' Last Tour) - 04 [WEB][2B1E86C5].mkv_snapshot_00.16_[2017.10.27_22.37.46].jpg" >}}
 Had some cheeki Nandos for dinner. The Westfield shopping centre at Stratford isn't as big as the one in the central London but it still took multiple minutes just to walk to the food court. It was really busy and loud.
 
-Checked out some more office chairs at John Lewis and wow these things are expensive. They had a chair for over £1000. Still, everything had just this one flaw.
+Checked out some more office chairs at John Lewis and wow these things are expensive. They had a chair for over £1000. Still, everything had just this one deal-breaking flaw.
 
 Afterwards we watched The Incredibles 2 in the shopping centre's cinema.  
 Vue XTREME VIP seats and everything. The seat locations were good but they weren't that comfortable and they didn't recline like they were advertised to. Screen was dekai and the 100.1 surround speakers were loud.
@@ -149,7 +149,8 @@ No toiletries other than this soap dispenser.
 Waterfall tap.
 
 {{< img-tl "Blog/DayTrips/18-07-London/DSC01323.jpg" >}}
-The whole hotel is covered in this lightly textured but still clearly fake bricks wallpaper.
+The whole hotel is covered in this lightly textured but still clearly fake bricks wallpaper.  
+Nice use of normal mapping.
 
 {{< img-tl "Blog/DayTrips/18-07-London/DSC01324.jpg" >}}
 The bathroom was clean enough but the room was crazy dusty.  
