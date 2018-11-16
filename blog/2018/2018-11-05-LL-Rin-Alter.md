@@ -53,7 +53,8 @@ Not to mention the level of detail put into all the creases around her boots and
 Overall, it perfectly captures Rin's cuteness without resorting to making her a goof.
 
 {{< img-tl "Figures/LL-Rin-Alter-2018/DSC01473_00.jpg" >}}
-The Sun came out from behind the clouds and blew this photo to bits. I really like this one though because it led to this cool glow which reminds me of like stage lighting.
+The Sun came out from behind the clouds and blew this photo to bits.  
+I really like it though because it led to this cool glow which reminds me of like stage lighting.
 
 {{< img-tl "Figures/LL-Rin-Alter-2018/DSC01511.jpg" >}}
 Some figures look weird from the side, not the case here.  
