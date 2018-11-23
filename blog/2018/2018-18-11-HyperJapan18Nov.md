@@ -33,7 +33,7 @@ But first, a word from our sponsor.
 They've switched to naming each part of the hall after thematically appropriate Tokyo districts.
 
 {{< img-tl "Blog/Events/Hyper-Japan/18-Nov/2018-11-16 15.05.59.jpg" >}}
-This is a shiny box.  
+This is one shiny box.  
 
 They've been cracking down on bootleg stalls which partly explains the convention shrinkage.  
 Would like to see MCM follow suit but I guess they care more about the :money_with_wings::money_with_wings::money_with_wings:
@@ -117,7 +117,7 @@ They also sold t-shirts and had an archery game where the arrows don't stick.
 {{< img-tl "Blog/Events/Hyper-Japan/18-Nov/DSC01593_02.jpg" >}}
 _"Yup, that's me. You're probably wondering how I ended up in this situation."_
 
-## Food Court
+## Lunch Zone
 
 {{< img-tl "Blog/Events/Hyper-Japan/18-Nov/DSC01599.jpg" >}}
 Got some karaage on a stick from PEKO PEKO.
@@ -187,20 +187,20 @@ This was part of a performance by the group [SHUNMU TOMOKAGAMI](http://shuntomo.
 [Mei](https://twitter.com/meiY_BJ) and [Shiori](https://twitter.com/shiori_f_BJ) from the idol group [Banzai Japan](http://cospanic.com/banzai-japan).
 
 I thought they were cosplayers at first until they handed me their flyer after I took their photo.  
-We ended up leaving before their performance on the stage.
+We ended up leaving before their concert.
 
 {{< img-tl "Blog/Events/Hyper-Japan/18-Nov/chrome_2018-11-21_02-00-33.png" >}}
 
 Shiori liked my tweet :blush:
 
 {{< img-tl "Blog/Events/Hyper-Japan/18-Nov/DSC01648.jpg" >}}
-That's [Kondo Miku](https://twitter.com/akihikokondosk/status/1059047755413303298) to you.
+That's [_Kondo_ Miku](https://twitter.com/akihikokondosk/status/1059047755413303298) to you.
 
 {{< img-tl "Blog/Events/Hyper-Japan/18-Nov/DSC01652.jpg" >}}
 There was still time before the coach home so we headed over to the Westfield shopping centre for Five Guys, a truckload of chips and a movie.
 
 {{< img-tl "Blog/Events/Hyper-Japan/18-Nov/2018-11-16 16.31.04.jpg" >}}
-_"Artist interpretation"_
+_Artist interpretation_
 
 We saw Fantastic Beasts: The Crimes of Grindelwald. A sequel to the Harry-Potter spin-off.  
 
@@ -215,4 +215,5 @@ I had a whole rant written here but it was pretty much the same thing the critic
 {{< img-tl "Blog/Events/Hyper-Japan/18-Nov/dumbledore.jpg" >}}
 Dumbledore realised he could show up to work in his pyjamas and fire anyone who disagrees.
 
-Until next time~
+Until next time~  
+<sup>Assuming Mio Sake hasn't taken over the whole convention by then.</sup>
