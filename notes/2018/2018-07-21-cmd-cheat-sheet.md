@@ -57,7 +57,7 @@ del *.bmp
 
 ```
 magick convert "thing.jpg" -resize 50% "thing-small.jpg"
-magick mogrify "thing.jpg" -resize 50%
+magick mogrify -resize 50% "thing.jpg" 
 ```
 
 ### Rotation
