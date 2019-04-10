@@ -3,8 +3,6 @@ date = "2015-06-20T14:02:37+02:00"
 title = "Projects"
 hidden = true
 +++
-# Projects
-
 ## Game Dev
 
 ### Homu Suite
@@ -21,7 +19,7 @@ A collection of utilities for Unity.
 * Reverse image search with SauceNAO via context menu
 * Translate selected text from Japanese to English with Google Translate via context menu  
 * Adds toolbar button to quickly search MyAnimeList  
-* Redirects <sup>Twitter</sup> image URLs to the original size and quality version
+* Redirects Twitter image URLs to the original size and quality version
 * Download Twitter images as image files instead of Twitter's jpg-large files
 
 Download:  
@@ -33,7 +31,7 @@ Source code:
 ### This website
 
 * Generated with Hugo.
-* Based off the <s>[Cactus Plus](https://github.com/nodejh/hugo-theme-cactus-plus)</s> theme.
+* Based off the ~~[Cactus Plus](https://github.com/nodejh/hugo-theme-cactus-plus)~~ [Mediumish](https://github.com/lgaida/mediumish-gohugo-theme) theme.
 * Hosted on Github Pages and Amazon S3.  
 
 Source code:  
