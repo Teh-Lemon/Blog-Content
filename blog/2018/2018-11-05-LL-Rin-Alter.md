@@ -17,7 +17,7 @@ It's not often that a character gets more than one figure from the same company 
 I liked many of the characters while watching the show but the only one who hasn't faded from memory is Rin so I've always been on a look out for a decent scale figure from her.  
 However, it seemed like Rin was cursed. All of her figures are either cheap, which is expected from a show with such mainstream popularity, or just plain unappealing.
 
-{{< img-tl "Figures/LL-Rin-Alter-2018/20161027114806_wNREo6pJ-AlterFirst.jpg" >}}
+{{< img-tl "Figures/LL-Rin-Alter-2018/20161027114806_wNREo6pJ-AlterFirst.jpg" >}}  
 Alter's first Rin figure went with her ugliest outfit to date. She doesn't even match the style of the rest of the [collection]({{< itl-url "Figures/LL-Rin-Alter-2018/3c43932932eaae9f0d4dce6464238b2a4944936e_hq-collection.jpg" >}}). It's not like there weren't any other cat outfits they could have gone with.
 
 Well, other people must've liked it as her aftermarket price shot up. The opposite of this Rin.  
@@ -30,7 +30,7 @@ The new figure uses this lovely outfit from the mobile game. Alter is going with
 
 Shame the figures themselves are set in a plain ol' standing pose rather than the sitting-on-a-branch-together-as-besties pose. Maybe then I would have been tempted.  
 
-{{< img-tl "Figures/LL-Rin-Alter-2018/milkypop1518600192.jpg" >}}
+{{< img-tl "Figures/LL-Rin-Alter-2018/milkypop1518600192.jpg" >}}  
 Alter did fix this in the next couple of figures. These two can't even be separated nor should they.
 
 ## The Photos
@@ -77,7 +77,7 @@ I tried covering up the other lights with tissue to make them softer but in the 
 
 This is also the first time I've shot in manual mode. Winter in the UK is pretty dark and my camera had to boost its ISO (sensor sensitivity) leading to a ton of noise.
 
-{{< img-tl "Figures/LL-Rin-Alter-2018/darktable_2018-11-05_21-52-30.png" >}}
+{{< img-tl "Figures/LL-Rin-Alter-2018/darktable_2018-11-05_21-52-30.png" >}}  
 "Yikes"
 
 The camera's auto mode doesn't always know what's best for each situation.  
