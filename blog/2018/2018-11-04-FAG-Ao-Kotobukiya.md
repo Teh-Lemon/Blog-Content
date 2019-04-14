@@ -14,11 +14,11 @@ Ao is not a robot but she's cute nonetheless.
 ***
 The anime wasn't anything special but it must have at least done its job as a toy commercial seeing as there's a sequel coming out next year. It certainly convinced me and my friends to buy some merchandise.
 
-{{< img-tl "Figures/FAG-Ao-Kotobukiya-2017/image00272.jpg" >}}
+{{< img-tl "Figures/FAG-Ao-Kotobukiya-2017/image00272.jpg" >}}  
 I was mainly watching because I had an interest in interior decor [at the time](https://twitter.com/WakabaGames/status/924451926930059264).  
 Such a cute apartment but I still can't get over how weird the lights are.  
 
-For me, the highlight of the show wasn't even the robot girls but this dork of a main character.
+For me, the highlight of the show wasn't even the robot girls but this dork of a main character.  
 {{< img-tl "Figures/FAG-Ao-Kotobukiya-2017/1517519836844.jpg" >}}
 
 ## The Photos
