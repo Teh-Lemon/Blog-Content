@@ -17,7 +17,7 @@ A collection of utilities for Unity.
 ### Lemon X Chrome Extension
 
 * Reverse image search with SauceNAO via context menu
-* Translate selected text from Japanese to English with Google Translate via context menu  
+* Translate selected text with Google Translate via context menu  
 * Adds toolbar button to quickly search MyAnimeList  
 * Redirects Twitter image URLs to the original size and quality version
 * Download Twitter images as image files instead of Twitter's jpg-large files
