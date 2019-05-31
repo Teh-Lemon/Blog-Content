@@ -9,7 +9,7 @@ hidden = true
 
 A collection of utilities for Unity.  
 <https://github.com/Teh-Lemon/Homu-Core>  
-<https://github.com/Teh-Lemon/Homu-Editor>
+<https://github.com/Teh-Lemon/Homu-Editor>  
 <https://github.com/Teh-Lemon/Homu-Shapes>
 
 ## Web
@@ -22,10 +22,10 @@ A collection of utilities for Unity.
 * Redirects Twitter image URLs to the original size and quality version
 * Download Twitter images as image files instead of Twitter's jpg-large files
 
-Download:  
+**Download**:  
 [Chrome Web Store](https://chrome.google.com/webstore/detail/lemon-x/chdldhicokpngnfcmbgmgleipomcojfi)  
 [Github](https://github.com/Teh-Lemon/Lemon-X-Chrome-Extension/releases)  
-Source code:  
+**Source code**:  
 <https://github.com/Teh-Lemon/Lemon-X-Chrome-Extension>
 
 ### This website
@@ -34,7 +34,7 @@ Source code:
 * Based off the ~~[Cactus Plus](https://github.com/nodejh/hugo-theme-cactus-plus)~~ [Mediumish](https://github.com/lgaida/mediumish-gohugo-theme) theme.
 * Hosted on Github Pages and Amazon S3.  
 
-Source code:  
+**Source code**:  
 <https://github.com/Teh-Lemon/Blog>
 
 ## Old Projects
