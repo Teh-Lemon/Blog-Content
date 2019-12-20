@@ -120,3 +120,17 @@ ffmpeg
 ```
 ffmpeg -i input.mp4 -ss 00:00:00.00 -to 00:04:15.00 [output]
 ```
+
+### Concatenation
+
+<https://trac.ffmpeg.org/wiki/Concatenate>  
+
+Only works for videos of the same codec.
+`list.txt`
+```
+file '/path/to/file1.webm'  
+file '/path/to/file2.webm'  
+file '/path/to/file3.webm'  
+```
+
+`ffmpeg -f concat -i list.txt -c copy outputFile.webm`
