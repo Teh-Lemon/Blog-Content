@@ -47,10 +47,12 @@ Convert all BMP files in directory to JPEG then delete them.
 magick mogrify -format jpg -quality 80 *.bmp
 del *.bmp
 ```
+
 ### Output Frames of Video
 
 ```
-ffmpeg -i inputvideo.mp4 -filter:v fps=fps=12 frames/frame%05d.jpg
+ffmpeg -i inputvideo.mp4 frames/frame%05d.bmp  
+ffmpeg -ss 00:19:20 -i inputvideo.mkv -t 5 frames/frame%05d.bmp
 ```
 
 ## File Editing
