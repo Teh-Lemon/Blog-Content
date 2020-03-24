@@ -55,6 +55,15 @@ ffmpeg -i inputvideo.mp4 frames/frame%05d.bmp
 ffmpeg -ss 00:19:20 -i inputvideo.mkv -t 5 frames/frame%05d.bmp
 ```
 
+### Youtube-DL
+
+Download Youtube video with subtitles.
+
+```
+youtube-dl --write-auto-sub https://www.youtube.com/watch?v=
+youtube-dl --write-srt --sub-lang en https://www.youtube.com/watch?v=
+```
+
 ## File Editing
 
 ### Renaming
