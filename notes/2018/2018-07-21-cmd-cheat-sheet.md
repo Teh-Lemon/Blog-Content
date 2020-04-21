@@ -31,7 +31,7 @@ ren *.opus *.ogg
 ### Encode VP8 Webm
 
 ```
-ffmpeg -c:v libvpx -pix_fmt yuv420p -lag-in-frames 16 -auto-alt-ref 1 -qmin 28 -crf 30 -qmax 32 -qcomp 1 -b:v 0 out.webm
+ffmpeg -i INPUT_FILENAME -c:v libvpx -pix_fmt yuv420p -lag-in-frames 16 -auto-alt-ref 1 -qmin 28 -crf 30 -qmax 32 -qcomp 1 -b:v 0 out.webm
 ```
 
 ### Encode to Twitter MP4
