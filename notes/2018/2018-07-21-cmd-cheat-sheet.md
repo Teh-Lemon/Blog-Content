@@ -61,7 +61,16 @@ Download Youtube video with subtitles.
 
 ```
 youtube-dl --write-auto-sub https://www.youtube.com/watch?v=
-youtube-dl --write-srt --sub-lang en https://www.youtube.com/watch?v=
+youtube-dl --write-sub --sub-lang en --convert-subs srt --embed-subs https://www.youtube.com/watch?v=
+```
+
+Download snippet only.  
+First -ss set before the start to allow key frames to populate.  
+2nd -ss actual start.
+
+```
+youtube-dl -g [URL]  
+ffmpeg -ss 00:59:30 -i "vidlink" -ss 00:59:30 -i "audlink" -map 0:v -map 1:a -ss 30 -t 60 out.mp4
 ```
 
 ## File Editing
