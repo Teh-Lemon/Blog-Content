@@ -61,7 +61,12 @@ Download Youtube video with subtitles.
 
 ```
 youtube-dl --write-auto-sub https://www.youtube.com/watch?v=
-youtube-dl --write-sub --sub-lang en --convert-subs srt --embed-subs https://www.youtube.com/watch?v=
+youtube-dl --write-sub --sub-lang en --embed-subs https://www.youtube.com/watch?v=
+```
+
+Archival
+```
+youtube-dl --write-thumbnail --add-metadata --ignore-errors --embed-thumbnail
 ```
 
 Download snippet only.  
