@@ -11,21 +11,13 @@ How to use various command-line utilities including batch, bash, FFmpeg and Imag
 <!--more-->
 
 ## Conversion
-
-### Batch To Mp3
-
-Loop through every video in this directory and convert it to V2 .mp3.
-```
-for %%a in ("*.mkv" "*.mp4" "*.webm") do ffmpeg -i "%%a" -codec:a libmp3lame -qscale:a 2 "%%a.mp3"
 ```
 
 ### Batch to Opus
 
-Renames to .ogg for compatibility reasons.
 Defaults to 96K bitrate.
 ```
 for %%a in ("*.mkv" "*.mp4" "*.webm") do ffmpeg -i "%%a" -acodec libopus "%%a.opus"
-ren *.opus *.ogg
 ```
 
 ### Encode VP8 Webm
@@ -65,11 +57,18 @@ youtube-dl --write-sub --sub-lang en --embed-subs https://www.youtube.com/watch?
 ```
 
 Archival
+
 ```
 youtube-dl --write-thumbnail --add-metadata --ignore-errors --embed-thumbnail
 ```
 
 Download snippet only.  
+
+```  
+youtube-dl -v "https://www.twitch.tv/videos/xxx" --hls-prefer-ffmpeg --external-downloader-args "-ss 00:30:00 -to 00:40:00"  
+```
+
+Alt method:  
 First -ss set before the start to allow key frames to populate.  
 2nd -ss actual start.
 
@@ -78,30 +77,7 @@ youtube-dl -g [URL]
 ffmpeg -ss 00:59:30 -i "vidlink" -ss 00:59:30 -i "audlink" -map 0:v -map 1:a -ss 30 -t 60 out.mp4
 ```
 
-## File Editing
-
-### Renaming
-
-`ren *.jpg *@TehLemon.jpg`
-
 ## Image Editing
-
-`convert` creates a new file  
-`mogrify` overwrites the original file
-
-### Resize
-
-```
-magick convert "thing.jpg" -resize 50% "thing-small.jpg"
-magick mogrify -resize 50% "thing.jpg" 
-```
-
-### Rotation
-
-```
-magick convert -rotate "90" in.jpg out.jpg
-magick mogrify -rotate "-45" foo.jpg
-```
 
 ### Tiling
 
@@ -113,6 +89,7 @@ Tiling optional, montage will distribute it evenly by default.
 ```
 magick montage "file1.jpg" "file2.jpg" "file3.jpg" -geometry 256x128+0+1 -tile 2x1 montage.jpg
 ```
+
 ```
 magick montage *.jpg -geometry +0 -tile 1 foo.jpg
 ```
