@@ -63,12 +63,7 @@ youtube-dl --write-thumbnail --add-metadata --ignore-errors --embed-thumbnail
 
 Download snippet only.  
 
-```  
-youtube-dl -v "https://www.twitch.tv/videos/xxx" --hls-prefer-ffmpeg --external-downloader-args "-ss 00:30:00 -to 00:40:00"  
-```
-
-Alt method:  
-First -ss set before the start to allow key frames to populate.  
+1st -ss set before the start to allow key frames to populate.  
 2nd -ss actual start.
 
 ```
