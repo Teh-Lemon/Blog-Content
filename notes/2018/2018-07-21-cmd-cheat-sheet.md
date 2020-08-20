@@ -48,17 +48,17 @@ ffmpeg -ss 00:19:20 -i inputvideo.mkv -t 5 frames/frame%05d.bmp
 
 ### Youtube-DL
 
+Archival
+
+```
+youtube-dl --write-thumbnail --add-metadata --ignore-errors --embed-thumbnail
+```
+
 Download Youtube video with subtitles.
 
 ```
 youtube-dl --write-auto-sub https://www.youtube.com/watch?v=
 youtube-dl --write-sub --sub-lang en --embed-subs https://www.youtube.com/watch?v=
-```
-
-Archival
-
-```
-youtube-dl --write-thumbnail --add-metadata --ignore-errors --embed-thumbnail
 ```
 
 Download snippet only.  
