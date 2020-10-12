@@ -54,6 +54,12 @@ Archival
 youtube-dl --write-thumbnail --add-metadata --ignore-errors --embed-thumbnail
 ```
 
+Download live streams
+
+```
+--hls-use-mpegts
+```
+
 Download Youtube video with subtitles.
 
 ```
